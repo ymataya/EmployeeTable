@@ -16,3 +16,11 @@ The person in-charge of creating this employee database would be the one answeri
 * Console Table
 * mySQL
 
+## Project Preview:
+The application looks like the images below:
+
+![Preview](./images/preview-1.png)
+![Preview](./images/preview-2.png)
+![Preview](./images/preview-3.png)
+![Preview](./images/preview-4.png)
+![Preview](./images/preview-5.png)
